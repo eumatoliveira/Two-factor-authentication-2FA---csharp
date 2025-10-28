@@ -3,6 +3,8 @@
 Um projeto simples e didático que demonstra como implementar **autenticação em dois fatores (2FA)** usando **C# no terminal (console app)**.  
 Ideal para quem está aprendendo **segurança, autenticação e lógica de back-end**.
 
+![login](https://github.com/eumatoliveira/Two-factor-authentication-2FA---csharp/blob/main/Two-factor%20authentication%20(2FA).drawio.png)
+
 ---
 
 ## 🚀 Funcionalidades
